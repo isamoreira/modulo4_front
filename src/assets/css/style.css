@@ -1,0 +1,114 @@
+.footer{
+    background-color: #6baeb6;
+    color:#f4ecc5;
+    text-align: center;
+    overflow: hidden;
+    justify-items: center;
+    border-top: 8px solid #e3b9c5;
+}
+
+.formas {
+    text-align: center;
+    font-size: medium;
+    font-family: sans-serif;
+}
+
+.final{
+    text-align: center;
+}
+
+.bandeiras {
+    width: 100px;
+    height: 50px;
+}
+
+.menu{
+
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    max-width: 100%;
+    top: 28px;
+    left: 56px;
+    background-color: #719c9f;
+    text-align: center;
+    color:#f4ecc5;
+    font-size: medium;
+    font-family: sans-serif;
+    text-decoration: underline;
+    font-weight: normal;
+    
+}
+
+
+
+.menu img{
+    
+        display: block;
+        max-width: 100%;
+        width: 50px;
+
+}
+
+.menu link{
+    padding:20px;
+}
+
+button{
+    background-color:#fb7f06;
+    border: 1px;
+    border-radius: 3px;
+    padding:2px 20px;
+   }
+
+   .formulario1 {
+       text-align: center; 
+       font-family: sans-serif;
+       padding: 100px 100px;
+   }
+
+   .home{
+
+        background-image: url(/public/img/bg.jpg);
+        text-align: center;
+        font-family: sans-serif;
+        height: 300px;
+        background-position: center;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        box-sizing: border-box;
+        color: #f4ecc5;
+
+   }
+
+   .pacotes{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+   }
+
+
+   .destino{
+    border: solid 5px #fb7f06c5;
+   }
+
+   .pacotes img{
+
+    display: block;
+    max-width: 100%;
+    width: 500px;
+    align-items: center;
+
+   }
+
+   .promocao {
+    align-items: center;
+    text-align: center;
+    background-color: #6baeb6;
+    color:#f4ecc5;
+    font-family: sans-serif;
+    text-decoration: none;
+
+   }
